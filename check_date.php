@@ -1,5 +1,5 @@
 <?
-//
+//hello
 // RICS <info@rics.ru>
 // Created on: <06-Nov-2001 15:28:37 bf>
 //
